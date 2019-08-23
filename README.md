@@ -1,3 +1,3 @@
 removed
 
-正在开发新的面板 [Github](https://github.com/sprov065/v2-ui)
+新的面板 [v2-ui](https://github.com/sprov065/v2-ui)
